@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactJs and nodeJs projects<br> 🌱 I’m currently learning ReactJs and ReactNative<br> 👯 I’m looking to collaborate on Frontend projects<br> 💬 Ask me about Javascript, ReactJs and tailwindcss<br> 📫 How to reach me itzvrindadubey@gmail.com
+🔭 I’m currently working on ReactJs and nodeJs projects<br> 🌱 I’m currently learning ReactJs and ReactNative<br> 👩‍💻 I’m looking to collaborate on Frontend projects<br> 💬 Ask me about Javascript, ReactJs and tailwindcss<br> 📫 How to reach me itzvrindadubey@gmail.com
 
 
 # 💻 Tech Stack:
